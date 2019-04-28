@@ -1,0 +1,38 @@
+body{
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+.Cabecera {
+    background-color: rgb(116, 82, 61);
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    margin: 1%;
+   
+}
+.Principal {
+    background-color: rgba(243, 229, 171, 0.555);
+    border: black 1px solid;
+    font-stretch: narrower;
+
+}
+
+h2 {
+    color: rgb(95, 66, 11);
+}
+
+.Wrong {
+    color: red;
+    font-weight: bold;
+}
+
+blockquote {
+    font-size: 80%;
+    text-align: right;
+    margin-right: 1em;
+}
+
+main {
+    padding-left: 1%;
+    font-size: 90%;
+}

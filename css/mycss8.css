@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, sans-serif;
+ }
+ 
+ .Principal {
+     border: black 1px solid;
+     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+     padding: 10px 10px 0px 10px;
+     background-color: rgb(241, 247, 247);
+     
+ }
+ 
+ h1 {
+     margin: 0px;
+ }
+ 
+ p[id] {
+    margin: 1em 1em 2em 0em;
+    width: 100%;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    text-align: left;
+    line-height: 2em;
+
+ }
+ 

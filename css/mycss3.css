@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+.Principal {
+    background-color:rgb(189, 230, 214) ;
+    border: black 1px solid;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    color: rgb(153, 110, 58);
+
+}
+
+.Cabecera {
+    background-color: rgb(135, 149, 150);
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    margin: 1%;
+    
+}
+
+.Lista {
+    color: black;
+    line-height: 2em;
+}
+
+main {
+    padding-left: 1%;
+}
