@@ -1,0 +1,22 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h4 {
+    color: rgba(92, 64, 28, 0.89);
+}
+
+.Principal {
+    background-color:rgba(254, 255, 234, 0.911) ;
+    border: black 1px solid;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    padding-left: 1%;
+    padding-bottom: 1%;
+}
+
+footer {
+    color: rgba(57, 231, 41, 0.911);
+    font-style: italic; 
+
+}
+
