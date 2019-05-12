@@ -1,0 +1,20 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:100%;
+    background-color:mintcream;
+
+}
+h1{
+    text-transform: uppercase;
+    font-weight:bold;
+    color:black;
+}
+h2{
+    text-transform: capitalize;
+}
+footer{
+    color:red;
+}
